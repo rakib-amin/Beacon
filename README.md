@@ -2,9 +2,9 @@
 
 # Beacon
 
-**1. Introduction **
+**1. Introduction**
 
-Problem: 
+Problem:
 
 Traffic Jam, a major drawback to our progression through everyday activities has been
 more of a frustration than a situation due to the lack of management. It’s a matter of road,
@@ -13,16 +13,16 @@ law enforcement produced no results. Therefore we have been bearing it as a crow
 not a problem that we can eliminate immediately, but the one we can avoid. “Prevention before
 Cure”- as they say.
 
-Solution: 
+Solution:
 
 An alert software that tracks and reports occurrences of traffic jam. It will show specific
 routes where jam are occurring real-time (based on internet/GPS services). It will provide alternate
 routes to destination based on that tracking.
 
 
-**2. Scope **
+**2. Scope**
 
-This App Does: 
+This App Does:
 
 Users of this app will be Android Phone users who travels using general routes
 described in map (Dhaka). This application uses ‘Crowd Sourcing’-a popular survey-based data
@@ -31,7 +31,7 @@ analyzes the received data and conducts search for options to a specific problem
 show routes etc). It will provide a User Interface as per user’s need to navigate through the app,
 along with server side assistance.
 
-This App Does NOT: 
+This App Does NOT:
 
 It does NOT guarantee a clean, smooth experience in the route it suggested
 to the user. It will NOT base its assumptions on direct contact with anyone but the users. It will
@@ -42,33 +42,33 @@ active. It will NOT work real-time in offline mode.
 
 1. Users: [UNREGISTERD]
 
-- Can:
- Browse maps and watch suggestion marks on it by others
- Register.
+*Can:*
+* Browse maps and watch suggestion marks on it by others
+Register.
 
-- Can NOT:
- Suggest routes.
- Edit others’ suggestions.
- Rate suggestions by others.
- Take part in polling.
- Find point to point ‘Good’ routes.
+*Can NOT:*
+* Suggest routes.
+* Edit others’ suggestions.
+* Rate suggestions by others.
+* Take part in polling.
+* Find point to point ‘Good’ routes.
 
 2. Users: [REGISTERD]
 
-- Can:
- Log in once. (except after log out)
- Create / Update (after creation) a user profile.
- Create connections with other users
- Browse connected peers’ profiles.
- Suggest routes.
- Rate suggestions by others.
- Take part in polling.
- Find point to point ‘Good’ routes.
+*Can:*
+* Log in once. (except after log out)
+* Create / Update (after creation) a user profile.
+* Create connections with other users
+* Browse connected peers’ profiles.
+* Suggest routes.
+* Rate suggestions by others.
+* Take part in polling.
+* Find point to point ‘Good’ routes.
 
-- Can NOT:
- Edit others’ suggestions.
- Rate a suggestion twice.
- Communicate with peers through the app.
+*Can NOT:*
+* Edit others’ suggestions.
+* Rate a suggestion twice.
+* Communicate with peers through the app.
 [NO ADMIN USER WILL BE ALLOTTED EXCEPT IN CASE OF SYSTEM CRASH/FAILURE]
 
 **4. Use cases of the system:**
@@ -219,6 +219,8 @@ applied.
 
 **5. Technical Information**
 Technology: Android
-Build Tools: 
+Build Tools:
 Web Server:
 Database:
+
+
