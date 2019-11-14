@@ -218,9 +218,13 @@ applied.
 </table>
 
 **5. Technical Information**
+
 Technology: Android
+
 Build Tools:
+
 Web Server:
+
 Database:
 
 
